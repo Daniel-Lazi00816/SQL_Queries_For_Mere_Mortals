@@ -18,3 +18,4 @@ The first three chapters discuss the nature of relational databases and will not
 Chapter 4 is straight forward. We learn the basics of queries and the logice which is underneath them. After that we learn how to use the DISTINCT function and the nature of the ORDER BY and GROUP BY clause. 
 
 # Chapter 5 Getting More than Simple Columns:
+Chapter 5 deals with expressions, data types, the CAST function use of literals, and the NULL value. Expressions are great when you are asking WHAT IF questions. The CAST function is best utilized to change the data type of a column in order to combine with another element of a query. For example, if you wanted to add a numeric type column say Zip Code to an address column you would need to use CAST to change the Zip Code to a CHAR data type. All values in an expression must generally be compatible in order for the operation defined within the expresion to work properly. 
